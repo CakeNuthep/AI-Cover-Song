@@ -1,0 +1,8 @@
+pydub==0.25.1
+yt-dlp==2023.7.6
+ffmpeg==1.4
+demucs==4.0.0
+wheel==0.41.2
+ipython==8.14.0
+so-vits-svc-fork==4.1.1
+
